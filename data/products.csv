@@ -1,0 +1,46 @@
+id,name,brand,category,price,rating,stock,description,battery_hours,battery_days,noise_cancellation,water_resistance,connectivity,microphone_count,charging_type,weight_grams,fast_charging,spatial_audio,gps,display_type,display_size_inches,heart_rate_monitor,spo2_monitor,sleep_tracking,step_tracking,calling,layout,keyboard_type,wireless,switch_type,backlit,rgb,hot_swappable,key_count
+EB001,SoundMax ANC Pro,SoundMax,Earbuds,2399,4.5,25,SoundMax ANC Pro wireless earbuds for everyday listening.,40,,True,IPX5,Bluetooth 5.3,4,USB-C,48,True,True,,,,,,,,,,,,,,,,
+EB002,EchoBuds Air,EchoBuds,Earbuds,1799,4.2,40,EchoBuds Air wireless earbuds for everyday listening.,32,,False,IPX4,Bluetooth 5.2,2,USB-C,44,True,False,,,,,,,,,,,,,,,,
+EB003,PulsePods Max,PulsePods,Earbuds,2899,4.6,18,PulsePods Max wireless earbuds for everyday listening.,45,,True,IPX5,Bluetooth 5.3,6,USB-C,52,True,True,,,,,,,,,,,,,,,,
+EB004,NovaBuds S,Nova,Earbuds,2199,4.3,32,NovaBuds S wireless earbuds for everyday listening.,36,,True,IPX4,Bluetooth 5.3,4,USB-C,46,True,True,,,,,,,,,,,,,,,,
+EB005,AeroPods Lite,Aero,Earbuds,1299,4.0,55,AeroPods Lite wireless earbuds for everyday listening.,28,,False,IPX4,Bluetooth 5.2,2,USB-C,38,False,False,,,,,,,,,,,,,,,,
+EB006,BeatFlow X2,BeatFlow,Earbuds,2499,4.4,21,BeatFlow X2 wireless earbuds for everyday listening.,38,,True,IPX5,Bluetooth 5.3,4,USB-C,50,True,False,,,,,,,,,,,,,,,,
+EB007,ZenPods Pro,ZenPods,Earbuds,3199,4.7,14,ZenPods Pro wireless earbuds for everyday listening.,50,,True,IPX5,Bluetooth 5.4,6,USB-C,54,True,True,,,,,,,,,,,,,,,,
+EB008,ClearSound Buds,ClearSound,Earbuds,1599,4.1,44,ClearSound Buds wireless earbuds for everyday listening.,30,,False,IPX4,Bluetooth 5.2,4,USB-C,43,True,False,,,,,,,,,,,,,,,,
+EB009,VibePods Neo,Vibe,Earbuds,1999,4.3,36,VibePods Neo wireless earbuds for everyday listening.,35,,True,IPX4,Bluetooth 5.3,4,USB-C,45,True,False,,,,,,,,,,,,,,,,
+EB010,ThunderBuds,Thunder,Earbuds,2699,4.5,19,ThunderBuds wireless earbuds for everyday listening.,42,,True,IPX7,Bluetooth 5.3,4,USB-C,51,True,False,,,,,,,,,,,,,,,,
+EB011,MiniBeat Air,MiniBeat,Earbuds,999,3.9,70,MiniBeat Air wireless earbuds for everyday listening.,24,,False,IPX4,Bluetooth 5.1,2,USB-C,36,False,False,,,,,,,,,,,,,,,,
+EB012,SonicLoop Pro,SonicLoop,Earbuds,2999,4.6,16,SonicLoop Pro wireless earbuds for everyday listening.,48,,True,IPX5,Bluetooth 5.4,6,USB-C,53,True,True,,,,,,,,,,,,,,,,
+EB013,WaveBuds 3,Wave,Earbuds,1899,4.2,39,WaveBuds 3 wireless earbuds for everyday listening.,34,,False,IPX5,Bluetooth 5.2,2,USB-C,47,True,False,,,,,,,,,,,,,,,,
+EB014,UrbanPods ANC,UrbanSound,Earbuds,2299,4.4,27,UrbanPods ANC wireless earbuds for everyday listening.,37,,True,IPX4,Bluetooth 5.3,4,USB-C,49,True,True,,,,,,,,,,,,,,,,
+EB015,FlexBuds Sport,Flex,Earbuds,2099,4.3,31,FlexBuds Sport wireless earbuds for everyday listening.,33,,False,IPX7,Bluetooth 5.3,4,USB-C,42,True,False,,,,,,,,,,,,,,,,
+SW001,PulseFit Pro,PulseFit,Smartwatch,4499,4.4,18,PulseFit Pro smartwatch for fitness and everyday use.,,7,,5ATM,Bluetooth 5.3,,,42,,,True,AMOLED,1.43,True,True,True,True,True,,,,,,,,
+SW002,NovaWatch Active,Nova,Smartwatch,3299,4.2,30,NovaWatch Active smartwatch for fitness and everyday use.,,10,,5ATM,Bluetooth 5.2,,,39,,,True,AMOLED,1.39,True,True,True,True,True,,,,,,,,
+SW003,ZenTime X,ZenTime,Smartwatch,5299,4.6,12,ZenTime X smartwatch for fitness and everyday use.,,5,,5ATM,Bluetooth 5.3,,,45,,,True,AMOLED,1.5,True,True,True,True,True,,,,,,,,
+SW004,FitCore Lite,FitCore,Smartwatch,2199,4.0,48,FitCore Lite smartwatch for fitness and everyday use.,,12,,IP68,Bluetooth 5.1,,,35,,,False,LCD,1.3,True,False,True,True,False,,,,,,,,
+SW005,Orbit Watch S,Orbit,Smartwatch,3799,4.3,22,Orbit Watch S smartwatch for fitness and everyday use.,,8,,5ATM,Bluetooth 5.2,,,41,,,True,AMOLED,1.43,True,True,True,True,True,,,,,,,,
+SW006,TrackMate Pro,TrackMate,Smartwatch,2999,4.2,35,TrackMate Pro smartwatch for fitness and everyday use.,,14,,5ATM,Bluetooth 5.2,,,38,,,True,LCD,1.4,True,True,True,True,True,,,,,,,,
+SW007,Apex Watch Ultra,Apex,Smartwatch,6499,4.7,9,Apex Watch Ultra smartwatch for fitness and everyday use.,,4,,10ATM,Bluetooth 5.4,,,58,,,True,AMOLED,1.5,True,True,True,True,True,,,,,,,,
+SW008,LifeSync 2,LifeSync,Smartwatch,2699,4.1,41,LifeSync 2 smartwatch for fitness and everyday use.,,9,,IP68,Bluetooth 5.2,,,37,,,False,AMOLED,1.39,True,True,True,True,False,,,,,,,,
+SW009,Glide Watch,Glide,Smartwatch,4199,4.5,15,Glide Watch smartwatch for fitness and everyday use.,,6,,5ATM,Bluetooth 5.3,,,40,,,True,AMOLED,1.43,True,True,True,True,True,,,,,,,,
+SW010,CoreFit Watch,CoreFit,Smartwatch,2499,4.0,52,CoreFit Watch smartwatch for fitness and everyday use.,,11,,IP68,Bluetooth 5.1,,,36,,,False,LCD,1.32,True,False,True,True,False,,,,,,,,
+SW011,VitaWatch Pro,Vita,Smartwatch,4999,4.5,17,VitaWatch Pro smartwatch for fitness and everyday use.,,7,,5ATM,Bluetooth 5.3,,,44,,,True,AMOLED,1.45,True,True,True,True,True,,,,,,,,
+SW012,MoveX Sport,MoveX,Smartwatch,2899,4.2,33,MoveX Sport smartwatch for fitness and everyday use.,,10,,5ATM,Bluetooth 5.2,,,43,,,True,LCD,1.4,True,True,True,True,False,,,,,,,,
+SW013,Luma Watch,Luma,Smartwatch,3599,4.3,24,Luma Watch smartwatch for fitness and everyday use.,,8,,IP68,Bluetooth 5.3,,,40,,,True,AMOLED,1.41,True,True,True,True,True,,,,,,,,
+SW014,Enduro S,Enduro,Smartwatch,3999,4.4,20,Enduro S smartwatch for fitness and everyday use.,,15,,10ATM,Bluetooth 5.2,,,49,,,True,LCD,1.4,True,True,True,True,True,,,,,,,,
+SW015,SmartLife Mini,SmartLife,Smartwatch,1999,3.9,60,SmartLife Mini smartwatch for fitness and everyday use.,,6,,IP68,Bluetooth 5.1,,,31,,,False,LCD,1.28,True,False,True,True,False,,,,,,,,
+KB001,KeyForge TKL,KeyForge,Keyboard,2799,4.5,20,"KeyForge TKL keyboard for work, coding, and everyday use.",200,,,,Bluetooth 5.2,,,780,,,,,,,,,,,TKL,Mechanical,True,Red,True,True,True,87
+KB002,TypeFlow 75,TypeFlow,Keyboard,2499,4.3,28,"TypeFlow 75 keyboard for work, coding, and everyday use.",180,,,,Bluetooth 5.1,,,720,,,,,,,,,,,75%,Mechanical,True,Brown,True,True,True,82
+KB003,OfficeKeys Pro,OfficeKeys,Keyboard,1699,4.2,45,"OfficeKeys Pro keyboard for work, coding, and everyday use.",300,,,,Bluetooth 5.0,,,680,,,,,,,,,,,Full-size,Membrane,True,N/A,True,False,False,104
+KB004,RGBStrike 87,RGBStrike,Keyboard,2999,4.4,17,"RGBStrike 87 keyboard for work, coding, and everyday use.",150,,,,USB + Bluetooth,,,850,,,,,,,,,,,TKL,Mechanical,True,Red,True,True,False,87
+KB005,MacType Air,MacType,Keyboard,2199,4.1,32,"MacType Air keyboard for work, coding, and everyday use.",240,,,,Bluetooth 5.2,,,560,,,,,,,,,,,75%,Membrane,True,N/A,True,False,False,84
+KB006,SwitchPro 100,SwitchPro,Keyboard,3499,4.6,13,"SwitchPro 100 keyboard for work, coding, and everyday use.",220,,,,Bluetooth 5.3,,,910,,,,,,,,,,,96%,Mechanical,True,Red,True,True,True,100
+KB007,CompactClick,CompactClick,Keyboard,1399,4.0,55,"CompactClick keyboard for work, coding, and everyday use.",160,,,,Bluetooth 5.1,,,490,,,,,,,,,,,65%,Membrane,True,N/A,True,False,False,68
+KB008,ProBoard X,ProBoard,Keyboard,2699,4.5,19,"ProBoard X keyboard for work, coding, and everyday use.",200,,,,Bluetooth 5.2,,,810,,,,,,,,,,,TKL,Mechanical,True,Brown,True,True,True,87
+KB009,SilentKeys,SilentKeys,Keyboard,1899,4.2,38,"SilentKeys keyboard for work, coding, and everyday use.",280,,,,Bluetooth 5.2,,,610,,,,,,,,,,,Full-size,Membrane,True,N/A,True,False,False,104
+KB010,GameCore 60,GameCore,Keyboard,2399,4.3,25,"GameCore 60 keyboard for work, coding, and everyday use.",130,,,,USB + Bluetooth,,,690,,,,,,,,,,,60%,Mechanical,True,Red,True,True,False,61
+KB011,FlexType 98,FlexType,Keyboard,3199,4.4,16,"FlexType 98 keyboard for work, coding, and everyday use.",210,,,,Bluetooth 5.3,,,870,,,,,,,,,,,98%,Mechanical,True,Brown,True,True,True,98
+KB012,WorkMate Wireless,WorkMate,Keyboard,1299,4.0,64,"WorkMate Wireless keyboard for work, coding, and everyday use.",260,,,,Bluetooth 5.0,,,650,,,,,,,,,,,Full-size,Membrane,True,N/A,False,False,False,104
+KB013,NeonKeys Pro,NeonKeys,Keyboard,2899,4.5,14,"NeonKeys Pro keyboard for work, coding, and everyday use.",190,,,,Bluetooth 5.2,,,820,,,,,,,,,,,TKL,Mechanical,True,Red,True,True,True,87
+KB014,TravelType Mini,TravelType,Keyboard,1599,4.1,43,"TravelType Mini keyboard for work, coding, and everyday use.",170,,,,Bluetooth 5.1,,,410,,,,,,,,,,,65%,Membrane,True,N/A,True,False,False,68
+KB015,MechCraft 75,MechCraft,Keyboard,3299,4.6,11,"MechCraft 75 keyboard for work, coding, and everyday use.",200,,,,Bluetooth 5.3,,,760,,,,,,,,,,,75%,Mechanical,True,Red,True,True,True,82
