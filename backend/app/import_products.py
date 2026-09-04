@@ -10,6 +10,8 @@ URI = os.getenv("NEO4J_URI")
 USERNAME = os.getenv("NEO4J_USERNAME")
 PASSWORD = os.getenv("NEO4J_PASSWORD")
 
+URI = URI.replace("neo4j+s://", "neo4j+ssc://")
+
 CSV_PATH = "data/products.csv"
 MERCHANT_NAME = "AgentCart Store"
 

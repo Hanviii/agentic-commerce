@@ -1,16 +1,12 @@
-from backend.app.models.intent import ShoppingIntent
-from backend.app.search import search_products
+from backend.app.search import search_from_query
 
 
-intent = ShoppingIntent(
-    category="Earbuds",
-    max_price=3000,
-    min_battery_hours=30,
-    noise_cancellation=True,
-    sort_by="rating"
+user_query = (
+    "I want earbuds under 3000 rupees "
+    "with noise cancellation and at least 30 hours of battery."
 )
 
-products = search_products(intent)
+products = search_from_query(user_query)
 
 print("\nMATCHING PRODUCTS:\n")
 

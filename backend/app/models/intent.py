@@ -41,7 +41,8 @@ class ShoppingIntent(BaseModel):
     rgb: Optional[bool] = None
     hot_swappable: Optional[bool] = None
     layout: Optional[str] = None
-
+        # Payment preference
+    payment_method: Optional[str] = None
     # How results should be ranked
     sort_by: Optional[Literal[
         "rating",
